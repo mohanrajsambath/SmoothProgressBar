@@ -55,4 +55,8 @@ public class MainActivity extends Activity {
       }
     });
   }
+
+  void theMethod(){
+    System.out.println("Test GitHub repo ");
+  }
 }
